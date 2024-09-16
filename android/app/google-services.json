@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587254219225",
+    "project_id": "blogs-app-5b4a9",
+    "storage_bucket": "blogs-app-5b4a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587254219225:android:5e0bb4518cdc8c9db6d9c8",
+        "android_client_info": {
+          "package_name": "com.kala.blogsap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdA15DAASM05i885cmc4bzb1kBgXMovI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
